@@ -4,5 +4,5 @@
 
 **FLAPPY BİRD ** <br/>
 
-![banner resmi](flappybird1.png)
-![banner resmi](flappy-bird-7.png)
+![banner resmi](https://github.com/rabianur412/GamesWithForm/blob/main/FlappyBird/FlappyBird/Resources/flappy-bird-7.png)
+![banner resmi](https://github.com/rabianur412/GamesWithForm/blob/main/FlappyBird/FlappyBird/Resources/flappybird3.png)
